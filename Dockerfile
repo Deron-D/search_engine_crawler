@@ -1,4 +1,3 @@
-#GitLab repo test 3
 FROM python:3.6-alpine
 
 ADD . /
